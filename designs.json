@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SWOT Analysis",
+    "category": "Analysis",
+    "file": "designs/swot.pptx",
+    "thumbnail": "designs/swot.png"
+  },
+  {
+    "name": "Four-Step Process",
+    "category": "Process",
+    "file": "designs/process.pptx",
+    "thumbnail": "designs/process.png"
+  },
+  {
+    "name": "Project Timeline",
+    "category": "Timeline",
+    "file": "designs/timeline.pptx",
+    "thumbnail": "designs/timeline.png"
+  }
+]
